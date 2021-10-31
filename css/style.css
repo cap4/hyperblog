@@ -11,3 +11,10 @@ body{
     padding: 1em;
   
 }
+.cabecera{
+background-color: blueviolet;
+color: beige;
+font-size: 20px;
+text-align: left;
+padding-left: 8px;
+}
